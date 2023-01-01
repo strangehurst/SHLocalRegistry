@@ -1,0 +1,6 @@
+name = "SHLocalRegistry"
+uuid = "394088ba-16f6-4af4-8a51-5783a2a4253e"
+repo = "https://github.com/strangehurst/SHLocalRegistry.git"
+description = "StrangeHurst Local Julia Package Registry"
+
+[packages]
