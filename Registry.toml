@@ -5,3 +5,4 @@ description = "StrangeHurst Local Julia Package Registry"
 
 [packages]
 3ce11b44-b057-481c-a673-d1befee9aa42 = { name = "PnmlIDRegistrys", path = "P/PnmlIDRegistrys" }
+bf569b50-707c-4e9e-b371-6d3a192cb2e8 = { name = "PnmlTypeDefs", path = "P/PnmlTypeDefs" }
