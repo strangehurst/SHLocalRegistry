@@ -4,3 +4,4 @@ repo = "https://github.com/strangehurst/SHLocalRegistry.git"
 description = "StrangeHurst Local Julia Package Registry"
 
 [packages]
+3ce11b44-b057-481c-a673-d1befee9aa42 = { name = "PnmlIDRegistrys", path = "P/PnmlIDRegistrys" }
