@@ -5,3 +5,4 @@ description = "StrangeHurst Local Julia Package Registry"
 
 [packages]
 1f34f301-fe8c-4464-8328-ff2334f05424 = { name = "PNML", path = "P/PNML" }
+e9d8d322-4543-424a-9be4-0cc815abe26c = { name = "Metatheory", path = "M/Metatheory" }
