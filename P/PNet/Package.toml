@@ -1,0 +1,4 @@
+name = "PNet"
+uuid = "b17e8b3e-4e57-4399-9a85-41e87fede9cd"
+repo = "git@github.com:strangehurst/PNML.jl.git"
+subdir = "PNet"
