@@ -2,10 +2,10 @@
 EzXML = "1"
 Reexport = "1"
 
-["0 - 0.0.13"]
+["0-0.0.13"]
 LabelledArrays = "1"
 
-["0 - 0.0.3"]
+["0-0.0.3"]
 AbstractTrees = "0.3-0.4"
 AutoHashEquals = "0.2"
 DocStringExtensions = "0.8-0.9"
@@ -14,12 +14,10 @@ ModuleDocstrings = "0.1"
 PrettyPrinting = "0.4"
 julia = "1.6.0-1"
 
-["0.0.12 - 0"]
-AutoHashEquals = "1 - 2"
+["0.0.12-0"]
+AutoHashEquals = "1-2"
 DocStringExtensions = "0.9"
 FunctionWrappers = "1"
-Graphs = "1"
-MetaGraphsNext = "0.7"
 Multisets = "0.4"
 NamedTupleTools = "0.14"
 OrderedCollections = "1"
@@ -27,25 +25,40 @@ PrecompileTools = "1"
 Preferences = "1"
 TermInterface = "2"
 XMLDict = "0.4"
-julia = "1.10.0 - 1"
+julia = "1.10.0-1"
 
-["0.0.12 - 0.0.13"]
+["0.0.12-0.0"]
+Graphs = "1"
+MetaGraphsNext = "0.7"
+
+["0.0.12-0.0.13"]
 AbstractTrees = "0.4"
-Compat = "4.15.0 - 4"
+Compat = "4.15.0-4"
 DecFP = "1"
 ScopedValues = "1"
 
-["0.0.12 - 0.0.23"]
-Metatheory = "2 - 3"
+["0.0.12-0.0.23"]
+Metatheory = "2-3"
 
-["0.0.23 - 0"]
-Compat = "4.18.0 - 4"
+["0.0.23-0"]
+Compat = "4.18.0-4"
 Logging = "1"
 LoggingExtras = "1"
-MacroTools = "0.5.13 - 0.5"
-Moshi = "0.3.7 - 0.3"
-SciMLLogging = "1"
+MacroTools = "0.5.13-0.5"
+Moshi = "0.3.7-0.3"
 SciMLPublic = "1"
 
-["0.0.24 - 0"]
+["0.0.23-0.0"]
+SciMLLogging = "1"
+
+["0.0.24-0"]
 Metatheory = "3"
+
+["0.1-0"]
+Accessors = "0.1.44-0.1"
+DataStructures = "0.19.3-0.19"
+EnumX = "1.0.6-1"
+ExproniconLite = "0.10.14-0.10"
+Graphs = "1.13.0-1"
+MetaGraphsNext = "0.7-0.8"
+SciMLLogging = "1.8.0-1"
